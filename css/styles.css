@@ -1,5 +1,12 @@
-h1 {
-    color:blue;
-    font-family: cursive;
-    font-size; 40px;
+body {
+background-color: none;
 }
+
+#header {
+    width: 100%;
+    background-color:beige;
+}
+
+
+
+
